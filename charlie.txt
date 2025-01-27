@@ -5,5 +5,5 @@ dev: still waiting for your reply
 main: I have responed but seems there was a conflit?
 dev: yes actually there was a conflict and seems you have resolved it successfully.
 main: ooh yes, i did.
-Thanks for that :)
+dev: Thanks for that :)
 
