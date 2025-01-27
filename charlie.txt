@@ -4,3 +4,5 @@ main: Good to know
 dev: still waiting for your reply
 main: I have responed but seems there was a conflit?
 dev: yes actually there was a conflict and seems you have resolved it successfully.
+
+Thanks for that :)
