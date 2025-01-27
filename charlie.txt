@@ -1,3 +1,6 @@
 Hi there!
 Feels good ot be here.
 dev: still waiting for your reply
+
+
+dev: yes actually there was a conflict and seems you have resolved it successfully.
