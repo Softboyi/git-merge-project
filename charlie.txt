@@ -7,3 +7,5 @@ dev: yes actually there was a conflict and seems you have resolved it successful
 main: ooh yes, i did.
 dev: Thanks for that :)
 main: what would this week be like?
+
+where do you want us to go?
